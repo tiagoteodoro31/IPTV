@@ -1,0 +1,11 @@
+# EXTM3U url-tvg = https://gogosmart.pro/pt/texnologii/iptv/epg.html
+#EXTINF:-1,GLOBO SP FHD
+http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/715
+#EXTINF:-1,GLOBO SP FHD H265
+http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/714
+#EXTINF:-1,GLOBO SP HD
+http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/741
+#EXTINF:-1,GLOBO SP SD 
+http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/492
+#EXTINF:-1,GLOBO RJ FHD
+http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/362
